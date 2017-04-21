@@ -3169,9 +3169,7 @@
           "Practice"
         ],
         "description": "",
-        "learning-objectives": {
-
-        },
+        "learning-objectives": [],
         "test": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3A.05.T1:1&launchMode=practicedirect"
         }
@@ -3182,9 +3180,7 @@
           "Test"
         ],
         "description": "",
-        "learning-objectives": {
-
-        },
+        "learning-objectives": [],
         "test": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3A.05.T1"
         }
