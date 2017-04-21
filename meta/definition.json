@@ -18,7 +18,7 @@
       "Practice": {
         "tags": {}
       },
-      "Test": {
+      "simulation": {
         "tags": {}
       }
     }
@@ -2912,7 +2912,7 @@
         }
       },
       "R0014": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -2920,20 +2920,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3A.01.T1:1&launchMode=practicedirect"
         }
       },
       "R0015": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3A.01.T1"
         }
       },
@@ -2975,7 +2975,7 @@
         }
       },
       "R0019": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -2983,20 +2983,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3A.02.T1:1&launchMode=practicedirect"
         }
       },
       "R0020": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3A.02.T1"
         }
       },
@@ -3038,7 +3038,7 @@
         }
       },
       "R0024": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -3046,20 +3046,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3A.03.T1:1&launchMode=practicedirect"
         }
       },
       "R0025": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3A.03.T1"
         }
       },
@@ -3101,7 +3101,7 @@
         }
       },
       "R0029": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -3109,20 +3109,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3A.04.T1:1&launchMode=practicedirect"
         }
       },
       "R0030": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3A.04.T1"
         }
       },
@@ -3164,24 +3164,24 @@
         }
       },
       "R0034": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
         "description": "",
         "learning-objectives": [],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3A.05.T1:1&launchMode=practicedirect"
         }
       },
       "R0035": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3A.05.T1"
         }
       },
@@ -3223,7 +3223,7 @@
         }
       },
       "R0039": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -3231,20 +3231,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3A.06.T1:1&launchMode=practicedirect"
         }
       },
       "R0040": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3A.06.T1"
         }
       },
@@ -3286,7 +3286,7 @@
         }
       },
       "R0044": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -3294,20 +3294,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3A.07.T1:1&launchMode=practicedirect"
         }
       },
       "R0045": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3A.07.T1"
         }
       },
@@ -3349,7 +3349,7 @@
         }
       },
       "R0049": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -3357,20 +3357,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3A.08.T1:1&launchMode=practicedirect"
         }
       },
       "R0050": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3A.08.T1"
         }
       },
@@ -3412,7 +3412,7 @@
         }
       },
       "R0054": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -3420,20 +3420,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3A.09.T1:1&launchMode=practicedirect"
         }
       },
       "R0055": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3A.09.T1"
         }
       },
@@ -3475,7 +3475,7 @@
         }
       },
       "R0059": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -3483,20 +3483,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3A.10.T1:1&launchMode=practicedirect"
         }
       },
       "R0060": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3A.10.T1"
         }
       },
@@ -3538,7 +3538,7 @@
         }
       },
       "R0064": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -3546,20 +3546,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3A.11.T1:1&launchMode=practicedirect"
         }
       },
       "R0065": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3A.11.T1"
         }
       },
@@ -3600,7 +3600,7 @@
         }
       },
       "R0069": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -3608,20 +3608,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3A.12.T1:1&launchMode=practicedirect"
         }
       },
       "R0070": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3A.12.T1"
         }
       },
@@ -3662,7 +3662,7 @@
         }
       },
       "R0074": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -3670,20 +3670,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3A.13.T1:1&launchMode=practicedirect"
         }
       },
       "R0075": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3A.13.T1"
         }
       },
@@ -3724,7 +3724,7 @@
         }
       },
       "R0079": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -3732,20 +3732,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3A.14.T1:1&launchMode=practicedirect"
         }
       },
       "R0080": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3A.14.T1"
         }
       },
@@ -3786,28 +3786,28 @@
         }
       },
       "R0084": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=TaskRepository_GO16_WD_03_3A.xml"
         }
       },
       "R0085": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": ""
         }
       },
@@ -3942,7 +3942,7 @@
         }
       },
       "R0096": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -3950,20 +3950,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3B.01.T1:1&launchMode=practicedirect"
         }
       },
       "R0097": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3B.01.T1"
         }
       },
@@ -4004,7 +4004,7 @@
         }
       },
       "R0101": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -4012,20 +4012,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3B.02.T1:1&launchMode=practicedirect"
         }
       },
       "R0102": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3B.02.T1"
         }
       },
@@ -4066,7 +4066,7 @@
         }
       },
       "R0106": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -4074,20 +4074,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3B.03.T1:1&launchMode=practicedirect"
         }
       },
       "R0107": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3B.03.T1"
         }
       },
@@ -4128,7 +4128,7 @@
         }
       },
       "R0111": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -4136,20 +4136,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3B.04.T1:1&launchMode=practicedirect"
         }
       },
       "R0112": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3B.04.T1"
         }
       },
@@ -4190,7 +4190,7 @@
         }
       },
       "R0116": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -4198,20 +4198,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3B.05.T1:1&launchMode=practicedirect"
         }
       },
       "R0117": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3B.05.T1"
         }
       },
@@ -4252,7 +4252,7 @@
         }
       },
       "R0121": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -4260,20 +4260,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3B.06.T1:1&launchMode=practicedirect"
         }
       },
       "R0122": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3B.06.T1"
         }
       },
@@ -4314,7 +4314,7 @@
         }
       },
       "R0126": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -4322,20 +4322,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3B.07.T1:1&launchMode=practicedirect"
         }
       },
       "R0127": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3B.07.T1"
         }
       },
@@ -4376,7 +4376,7 @@
         }
       },
       "R0131": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -4384,20 +4384,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3B.08.T1:1&launchMode=practicedirect"
         }
       },
       "R0132": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3B.08.T1"
         }
       },
@@ -4438,7 +4438,7 @@
         }
       },
       "R0136": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -4446,20 +4446,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3B.09.T1:1&launchMode=practicedirect"
         }
       },
       "R0137": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3B.09.T1"
         }
       },
@@ -4500,7 +4500,7 @@
         }
       },
       "R0141": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -4508,20 +4508,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3B.10.T1:1&launchMode=practicedirect"
         }
       },
       "R0142": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3B.10.T1"
         }
       },
@@ -4562,7 +4562,7 @@
         }
       },
       "R0146": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -4570,20 +4570,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3B.11.T1:1&launchMode=practicedirect"
         }
       },
       "R0147": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3B.11.T1"
         }
       },
@@ -4624,7 +4624,7 @@
         }
       },
       "R0151": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -4632,20 +4632,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3B.12.T1:1&launchMode=practicedirect"
         }
       },
       "R0152": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3B.12.T1"
         }
       },
@@ -4686,7 +4686,7 @@
         }
       },
       "R0156": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -4694,20 +4694,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3B.13.T1:1&launchMode=practicedirect"
         }
       },
       "R0157": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3B.13.T1"
         }
       },
@@ -4748,7 +4748,7 @@
         }
       },
       "R0161": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -4756,20 +4756,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3B.14.T1:1&launchMode=practicedirect"
         }
       },
       "R0162": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3B.14.T1"
         }
       },
@@ -4813,7 +4813,7 @@
         }
       },
       "R0166": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
           "Practice"
         ],
@@ -4821,20 +4821,20 @@
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=GO16.WD.03.3B.15.T1:1&launchMode=practicedirect"
         }
       },
       "R0167": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3B.15.T1"
         }
       },
@@ -4875,28 +4875,28 @@
         }
       },
       "R0171": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=TaskRepository_GO16_WD_03_3B.xml"
         }
       },
       "R0172": {
-        "sub-type": "test",
+        "sub-type": "simulation",
         "tags": [
-          "Test"
+          "simulation"
         ],
         "description": "",
         "learning-objectives": [
 
         ],
-        "test": {
+        "simulation": {
           "url": ""
         }
       },
