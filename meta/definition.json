@@ -1,8 +1,26 @@
 {
   "definition": {
-    "learning-objectives": {},
+    "learning-objectives": {
+      "Insert page numbers(MOS 1.3.5)": {
+        "learning-objectives": {}
+      },
+      "Set line and paragraph spacing and indentation(MOS 2.2.3)": {
+        "learning-objectives": {}
+      }
+    },
     "tags": {
-
+      "Reading": {
+        "tags": {}
+      },
+      "Videos": {
+        "tags": {}
+      },
+      "Practice": {
+        "tags": {}
+      },
+      "Test": {
+        "tags": {}
+      }
     }
   },
   "items":{
@@ -2727,7 +2745,7 @@
       "R0001": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "<div>In this chapter, you will learn how to customize a presentation by modifying the theme, formatting the slide background, and applying animation to slide elements.</div><br><div>The projects in this chapter relate to University Medical Center,which is a patient-care and research institution serving the metropolitan area of Memphis,Tennessee. Because of its outstanding reputation in the medical community and around the world, University Medical Center is able to attract top physicians, scientists, and researchers in all fields of medicine and achieve a level of funding that allows it to build and operate state-of-the-art facilities. A program in biomedical research was recently added. Individuals throughout the eastern United States travel to University Medical Center for diagnosis and care.</div>",
         "learning-objectives": [
@@ -2740,7 +2758,7 @@
       "R0002": {
         "sub-type": "video",
         "tags": [
-
+          "Reading"
         ],
         "description": "",
         "learning-objectives": [
@@ -2753,7 +2771,7 @@
       "R0003": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "In Activities 3.01 through 3.13, you will edit and format a research paper that contains an overview of a new area of study. This paper was created by Gerard Foster, a medical intern at University Medical Center, for distribution to his classmates studying various physiologic monitoring devices. Your completed document will look similar to Figure 3.1.",
         "learning-objectives": [
@@ -2766,7 +2784,7 @@
       "R0004": {
         "sub-type": "video",
         "tags": [
-
+          "Reading"
         ],
         "description": "",
         "learning-objectives": [
@@ -2779,7 +2797,7 @@
       "R0005": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "Use MS Word to create the project for this activity and drop file here",
         "learning-objectives": [
@@ -2792,7 +2810,7 @@
       "R0006": {
         "sub-type": "grader",
         "tags": [
-
+          "Reading"
         ],
         "description": "",
         "learning-objectives": [
@@ -2805,7 +2823,7 @@
       "R0007": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "",
         "learning-objectives": [
@@ -2818,7 +2836,7 @@
       "R0008": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "",
         "learning-objectives": [
@@ -2831,7 +2849,7 @@
       "R0009": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "",
         "learning-objectives": [
@@ -2844,7 +2862,7 @@
       "R0010": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "",
         "learning-objectives": [
@@ -2857,7 +2875,7 @@
       "R0011": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "",
         "learning-objectives": [
@@ -2921,6 +2939,7 @@
       },
       "R0016": {
         "sub-type": "weblink",
+        "tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -2983,6 +3002,7 @@
       },
       "R0021": {
         "sub-type": "weblink",
+        "tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -3045,6 +3065,7 @@
       },
       "R0026": {
         "sub-type": "weblink",
+        "tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -3107,6 +3128,7 @@
       },
       "R0031": {
         "sub-type": "weblink",
+        "tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -3169,6 +3191,7 @@
       },
       "R0036": {
         "sub-type": "weblink",
+        "tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -3231,6 +3254,7 @@
       },
       "R0041": {
         "sub-type": "weblink",
+        "tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -3293,6 +3317,7 @@
       },
       "R0046": {
         "sub-type": "weblink",
+        "tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -3355,6 +3380,7 @@
       },
       "R0051": {
         "sub-type": "weblink",
+        "tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -3417,6 +3443,7 @@
       },
       "R0056": {
         "sub-type": "weblink",
+        "tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -3479,6 +3506,7 @@
       },
       "R0061": {
         "sub-type": "weblink",
+        "tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -3540,7 +3568,7 @@
         }
       },
       "R0066": {
-        "sub-type": "weblink",
+        "sub-type": "weblink","tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -3602,7 +3630,7 @@
         }
       },
       "R0071": {
-        "sub-type": "weblink",
+        "sub-type": "weblink","tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -3664,7 +3692,7 @@
         }
       },
       "R0076": {
-        "sub-type": "weblink",
+        "sub-type": "weblink","tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -3726,7 +3754,7 @@
         }
       },
       "R0081": {
-        "sub-type": "weblink",
+        "sub-type": "weblink","tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -3738,7 +3766,7 @@
       "R0082": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "Use MS Word to create the project for this activity",
         "learning-objectives": [
@@ -3751,7 +3779,7 @@
       "R0083": {
         "sub-type": "grader",
         "tags": [
-
+          "Reading"
         ],
         "description": "",
         "learning-objectives": [
@@ -3790,7 +3818,7 @@
       "R0086": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "In Activities 3.15 through 3.29, you will edit a newsletter that University Medical Center is sending to the board of directors; optionally, you can create the necessary mailing labels. Your completed documents will look similar to Figure 3.22.",
         "learning-objectives": [
@@ -3803,7 +3831,7 @@
       "R0087": {
         "sub-type": "video",
         "tags": [
-
+          "Reading"
         ],
         "description": "",
         "learning-objectives": [
@@ -3816,7 +3844,7 @@
       "R0088": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "Use MS Word to create the project for this activity and drop file here",
         "learning-objectives": [
@@ -3829,7 +3857,7 @@
       "R0089": {
         "sub-type": "grader",
         "tags": [
-
+          "Reading"
         ],
         "description": "",
         "learning-objectives": [
@@ -3842,7 +3870,7 @@
       "R0090": {
         "sub-type": "grader",
         "tags": [
-
+          "Reading"
         ],
         "description": "",
         "learning-objectives": [
@@ -3855,7 +3883,7 @@
       "R0091": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "",
         "learning-objectives": [
@@ -3868,7 +3896,7 @@
       "R0092": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "",
         "learning-objectives": [
@@ -3881,7 +3909,7 @@
       "R0093": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "",
         "learning-objectives": [
@@ -3944,7 +3972,7 @@
         }
       },
       "R0098": {
-        "sub-type": "weblink",
+        "sub-type": "weblink","tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -4006,7 +4034,7 @@
         }
       },
       "R0103": {
-        "sub-type": "weblink",
+        "sub-type": "weblink","tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -4068,7 +4096,7 @@
         }
       },
       "R0108": {
-        "sub-type": "weblink",
+        "sub-type": "weblink","tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -4130,7 +4158,7 @@
         }
       },
       "R0113": {
-        "sub-type": "weblink",
+        "sub-type": "weblink","tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -4192,7 +4220,7 @@
         }
       },
       "R0118": {
-        "sub-type": "weblink",
+        "sub-type": "weblink","tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -4254,7 +4282,7 @@
         }
       },
       "R0123": {
-        "sub-type": "weblink",
+        "sub-type": "weblink","tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -4316,7 +4344,7 @@
         }
       },
       "R0128": {
-        "sub-type": "weblink",
+        "sub-type": "weblink","tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -4378,7 +4406,7 @@
         }
       },
       "R0133": {
-        "sub-type": "weblink",
+        "sub-type": "weblink","tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -4440,7 +4468,7 @@
         }
       },
       "R0138": {
-        "sub-type": "weblink",
+        "sub-type": "weblink","tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -4502,7 +4530,7 @@
         }
       },
       "R0143": {
-        "sub-type": "weblink",
+        "sub-type": "weblink","tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -4564,7 +4592,7 @@
         }
       },
       "R0148": {
-        "sub-type": "weblink",
+        "sub-type": "weblink","tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -4626,7 +4654,7 @@
         }
       },
       "R0153": {
-        "sub-type": "weblink",
+        "sub-type": "weblink","tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -4688,7 +4716,7 @@
         }
       },
       "R0158": {
-        "sub-type": "weblink",
+        "sub-type": "weblink","tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -4750,8 +4778,11 @@
         }
       },
       "R0163": {
-        "sub-type": "weblink",
+        "sub-type": "weblink","tags": [           "Reading"         ],
         "description": "",
+        "tags": [
+          "Reading"
+        ],
         "learning-objectives": [
 
         ],
@@ -4812,7 +4843,7 @@
         }
       },
       "R0168": {
-        "sub-type": "weblink",
+        "sub-type": "weblink","tags": [           "Reading"         ],
         "description": "",
         "learning-objectives": [
 
@@ -4824,7 +4855,7 @@
       "R0169": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "Use MS Word to create the project for this activity",
         "learning-objectives": [
@@ -4837,7 +4868,7 @@
       "R0170": {
         "sub-type": "grader",
         "tags": [
-
+          "Reading"
         ],
         "description": "",
         "learning-objectives": [
@@ -4876,7 +4907,7 @@
       "R0173": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "The projects in this chapter relate to University Medical Center,which is a patient-care and research institution serving the metropolitan area of Memphis,Tennessee. Because of its outstanding reputation in the medical community and around the world, University Medical Center is able to attract top physicians, scientists, and researchers in all fields of medicine and achieve a level of funding that allows it to build and operate state-of-the-art facilities. A program in biomedical research was recently added. Individuals throughout the eastern United States travel to University Medical Center for diagnosis and care.",
         "learning-objectives": [
@@ -4889,7 +4920,7 @@
       "R0174": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "A demonstration of your mastery of the skills in Project 3A with extensive decision making.",
         "learning-objectives": [
@@ -4902,7 +4933,7 @@
       "R0175": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "A demonstration of your mastery of the skills in Project 3B with extensive decision making.",
         "learning-objectives": [
@@ -4915,7 +4946,7 @@
       "R0176": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "A demonstration of your mastery of the skills in Projects 3A and 3B with extensive decision making.",
         "learning-objectives": [
@@ -4928,7 +4959,7 @@
       "R0177": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "Answer matching and multiplechoice questions to test what you learned in this chapter.",
         "learning-objectives": [
@@ -4941,7 +4972,7 @@
       "R0178": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "Learn how to use all the new apps and features as they are introduced by Microsoft.",
         "learning-objectives": [
@@ -4954,7 +4985,7 @@
       "R0179": {
         "sub-type": "md",
         "tags": [
-
+          "Reading"
         ],
         "description": "Flip through the definitions of the key terms in this chapter and match them with the correct term.",
         "learning-objectives": [
