@@ -2,7 +2,7 @@
   "definition": {
     "learning-objectives": {},
     "tags": {
-      
+
     }
   },
   "items":{
@@ -85,10 +85,7 @@
                             "item-type": "resource",
                             "resource": "R0006",
                             "item-code": "w03A_Quantitative_Technology",
-                            "tracking": false,
-                            "grader": {
-                              "url": ""
-                            }
+                            "tracking": false
                           }
                         ]
                       },
@@ -1393,20 +1390,14 @@
                             "item-type": "resource",
                             "resource": "R0089",
                             "item-code": "w03B_Environment_Newsletter",
-                            "tracking": false,
-                            "grader": {
-                              "url": ""
-                            }
+                            "tracking": false
                           },
                           {
                             "name": "w03B_Addresses (Optional if assigned)",
                             "item-type": "resource",
                             "resource": "R0090",
                             "item-code": "w03B_Addresses",
-                            "tracking": false,
-                            "grader": {
-                              "url": ""
-                            }
+                            "tracking": false
                           }
                         ]
                       },
@@ -2799,14 +2790,17 @@
         }
       },
       "R0006": {
-        "sub-type": "document",
+        "sub-type": "grader",
         "tags": [
 
         ],
         "description": "",
         "learning-objectives": [
 
-        ]
+        ],
+        "grader": {
+          "url": ""
+        }
       },
       "R0007": {
         "sub-type": "md",
@@ -3833,24 +3827,30 @@
         }
       },
       "R0089": {
-        "sub-type": "document",
+        "sub-type": "grader",
         "tags": [
 
         ],
         "description": "",
         "learning-objectives": [
 
-        ]
+        ],
+        "grader": {
+          "url": ""
+        }
       },
       "R0090": {
-        "sub-type": "document",
+        "sub-type": "grader",
         "tags": [
 
         ],
         "description": "",
         "learning-objectives": [
 
-        ]
+        ],
+        "grader": {
+          "url": ""
+        }
       },
       "R0091": {
         "sub-type": "md",
